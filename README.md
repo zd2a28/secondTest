@@ -5,7 +5,6 @@
 * リスト3
 
 
-'''composer.html
+```composer.html
 <h1>コードの説明が可能</h1>
-
-'''
+```
